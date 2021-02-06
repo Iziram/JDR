@@ -1,0 +1,27 @@
+
+nom: canne de viellard
+rareté: Dementielle
+categorie: arme
+prérequis:
+  classe: Chevalier Sacré
+  lvl: 15
+  hp: 0
+  mp: 0
+  luck: 10
+  force: 10
+  agilité: 10
+  intelligence: 40
+  charisme: 0
+  courage: 50
+  protection: 0
+
+powerup:
+  hp: +50
+  mp: 0
+  luck: 0
+  force: +50
+  agilité: +90
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0

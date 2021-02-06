@@ -1,0 +1,38 @@
+nom:  Ewyn MacAmbrais
+Classe:
+  nom: Alchimiste
+  lvl: 0
+Stats:
+  hp: 0/0
+  mp: 0/0
+  luck: 0
+  force: 35
+  agilité: 60
+  intelligence: 80
+  charisme: 40
+  courage: 35
+Armes:
+  1: 
+  2: 
+Armure:
+  tête: 
+  plastron: 
+  jambière: 
+  bottines: 
+Aptitudes:
+  1: Create Potion
+  2: 
+  ultime: 
+
+Buff:
+  tour: 0
+  Stats:
+    hp: 0
+    mp: 0
+    luck: 0
+    force: 0
+    agilité: 0
+    intelligence: 0
+    charisme: 0
+    courage: 0
+    protection: 0

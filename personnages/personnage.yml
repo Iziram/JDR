@@ -1,0 +1,38 @@
+nom: Demo
+Classe:
+  nom: Demo
+  lvl: 0
+Stats:
+  hp: 0/0
+  mp: 0/0
+  luck: 0
+  force: 0
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+Armes:
+  1: objets/nom
+  2: objets/nom
+Armure:
+  tête: objets/nom
+  plastron: objets/nom
+  jambière: objets/nom
+  bottines: objets/nom
+Aptitudes:
+  1: aptitudes/nom
+  2: aptitudes/nom
+  ultime: aptitudes/nom
+
+Buff:
+  tour: 0
+  Stats:
+    hp: 0
+    mp: 0
+    luck: 0
+    force: 0
+    agilité: 0
+    intelligence: 0
+    charisme: 0
+    courage: 0
+    protection: 0

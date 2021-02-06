@@ -1,0 +1,27 @@
+
+nom: Demo
+rareté: Commun/peu commun/rare/epic/legendaire/dementielle
+categorie: arme/armure/nourriture/artefacts/quetes/ingredients/autres
+prérequis:
+  classe: demo
+  lvl: 0
+  hp: 0
+  mp: 0
+  luck: 0
+  force: 0
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0
+
+powerup:
+  hp: 0
+  mp: 0
+  luck: 0
+  force: 0
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0

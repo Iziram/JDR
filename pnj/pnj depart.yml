@@ -1,0 +1,38 @@
+nom: SolGoen Yarty
+Classe:
+  nom: Chevalier Sacré
+  lvl: 100
+Stats:
+  hp: 999/999
+  mp: 1998/1998
+  luck: 0
+  force: 18
+  agilité: 14
+  intelligence: 100
+  charisme: 19
+  courage: 84
+Armes:
+  1: Canne de vieillard
+  2: 
+Armure:
+  tête: 
+  plastron: 
+  jambière: 
+  bottines: 
+Aptitudes:
+  1: 
+  2: 
+  ultime: 
+
+Buff:
+  tour: 999
+  Stats:
+    hp: 500
+    mp: 500
+    luck: 10
+    force: 500
+    agilité: 500
+    intelligence: 500
+    charisme: 500
+    courage: 500
+    protection: 500
