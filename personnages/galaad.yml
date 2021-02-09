@@ -3,8 +3,8 @@ Classe:
   nom: Alchimiste
   lvl: 0
 Stats:
-  hp: 0/0
-  mp: 0/0
+  hp: 125/125
+  mp: 250/250
   luck: 0
   force: 35
   agilité: 60

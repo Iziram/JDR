@@ -3,8 +3,8 @@ Classe:
   nom: Chevalier Apprentit Mage
   lvl: 0
 Stats:
-  hp: 0/0
-  mp: 0/0
+  hp: 100/100
+  mp: 200/200
   luck: 0
   force: 50
   agilité: 30

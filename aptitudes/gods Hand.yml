@@ -1,5 +1,5 @@
 nom: La main des dieux
-delai: 0
+delai: 3 turns
 capacité: Prière interieure qui permet de concentrer son énergie dans sa main
 prérequis:
   classe: mage
@@ -18,9 +18,9 @@ stats:
   hp: 0
   mp: 0
   luck: 0
-  force: +5
+  force: +10
   agilité: 0
-  intelligence: -5
+  intelligence: -10
   charisme: 0
   courage: 0
   protection: 0
