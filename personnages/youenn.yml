@@ -3,7 +3,7 @@ Classe:
   nom: Rodeur (arc + dague)
   lvl: 0
 Stats:
-  hp: 42/50
+  hp: 27/50
   mp: 100/100
   luck: 0
   force: 85
@@ -36,3 +36,5 @@ Buff:
     charisme: 0
     courage: 0
     protection: 0
+
+inventaire: potion de poison peu commune (5hp/t) 3t
