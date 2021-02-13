@@ -1,0 +1,27 @@
+
+nom: Baton de sureau
+rareté: Commun
+categorie: arme
+prérequis:
+  classe: 
+  lvl: 0
+  hp: 0
+  mp: 0
+  luck: 0
+  force: 0
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0
+
+powerup:
+  hp: 0
+  mp: 0
+  luck: 0
+  force: 15
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0
