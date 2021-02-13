@@ -1,0 +1,38 @@
+nom: Magnus Holdor
+Classe:
+  nom: Ninja
+  lvl: 0
+Stats:
+  hp: 0/0
+  mp: 0/0
+  luck: 0
+  force: 65
+  agilité: 65
+  intelligence: 30
+  charisme: 30
+  courage: 60
+Armes:
+  1: 
+  2: 
+Armure:
+  tête: 
+  plastron: 
+  jambière: 
+  bottines: 
+Aptitudes:
+  1: Camouflage
+  2:
+  ultime:
+
+Buff:
+  tour: 0
+  Stats:
+    hp: 0
+    mp: 0
+    luck: 0
+    force: 0
+    agilité: 0
+    intelligence: 0
+    charisme: 0
+    courage: 0
+    protection: 0
