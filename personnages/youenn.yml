@@ -3,8 +3,8 @@ Classe:
   nom: Rodeur (arc + dague)
   lvl: 0
 Stats:
-  hp: 27/50
-  mp: 70/100
+  hp: 22/50
+  mp: 100/100
   luck: 0
   force: 85
   agilité: 85
@@ -37,4 +37,6 @@ Buff:
     courage: 0
     protection: 0
 
-inventaire: potion de poison peu commune (5hp/t) 3t
+inventaire: potion de poison peu commune (5hp/t) 3t Clé chambre 14, petite bague
+
+habit:  habit de noble

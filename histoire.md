@@ -13,3 +13,17 @@ C'est sur ces mots que Guenièvre lança une missive à tous le peuple de Camelo
 <br>
 <h2>Début de l'histoire de la troupe Héroique:</h2>
 <br>
+
+Combat tour : 1
+
+spike essaye de planter la démone, il rate. (2/20)
+
+demone 15/16hp
+
+demone mord spike -5hp
+
+Combat tour : 2
+
+spike essaye de planter la démone, il lui assigne un coup de couteau mortel !
+
+Spike +5c
