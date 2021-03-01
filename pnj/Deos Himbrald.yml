@@ -1,0 +1,38 @@
+nom: Deos Himbrald
+Classe:
+  nom: Mercenaire
+  lvl: 0
+Stats:
+  hp: 100/100
+  mp: 200/200
+  luck: 0
+  force: 80
+  agilité: 30
+  intelligence: 30
+  charisme: 30
+  courage: 80
+Armes:
+  1: Lame Sanglante
+  2: 
+Armure:
+  tête: 
+  plastron: Plastron Ardent
+  jambière: 
+  bottines: 
+Aptitudes:
+  1: 
+  2: 
+  ultime: Démence
+
+Buff:
+  tour: 0
+  Stats:
+    hp: 0
+    mp: 0
+    luck: 0
+    force: 0
+    agilité: 0
+    intelligence: 0
+    charisme: 0
+    courage: 0
+    protection: 0

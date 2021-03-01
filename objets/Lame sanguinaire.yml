@@ -1,0 +1,27 @@
+
+nom: Lame Sanguinaire
+rareté: peu commun
+categorie: arme
+prérequis:
+  classe: 
+  lvl: 0
+  hp: 0
+  mp: 0
+  luck: 0
+  force: 70
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0
+
+powerup:
+  hp: 0
+  mp: 0
+  luck: 0
+  force: 20
+  agilité: 0
+  intelligence: 0
+  charisme: 0
+  courage: 0
+  protection: 0
