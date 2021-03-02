@@ -3,8 +3,8 @@ Classe:
   nom: Rodeur (arc + dague)
   lvl: 0
 Stats:
-  hp: 22/50
-  mp: 100/100
+  hp: 5/50
+  mp: 70/100
   luck: 0
   force: 85
   agilité: 85

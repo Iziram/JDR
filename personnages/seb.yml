@@ -3,7 +3,7 @@ Classe:
   nom: Chevalier Apprentit Mage
   lvl: 0
 Stats:
-  hp: 93/100
+  hp: 76/100
   mp: 200/200
   luck: 0
   force: 50
@@ -38,6 +38,8 @@ Buff:
     protection: 0
 
 
-inventaire : 2 couteaux très aiguisés. Bouteille de Vin, cuillère argentée
+inventaire : 2 couteaux très aiguisés. Bouteille de vin vide, cuillère argentée, 5 bouts de tissus.
 
 Trou dans le sac de Biel
+
+
